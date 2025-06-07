@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Slami Yassine</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/developer.gif" width="800"/>
+  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" width="300"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" width="800"/>
-</p> -->
 
 
 <h3 align="center">🚀 Passionate C/C++ and Machine Learning Student | Focused on Low-Level Systems & Algorithms</h3>
@@ -24,7 +20,6 @@
 <h3>🧠 About Me</h3>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" alt="Coding GIF" width="300"/>
   <div style="max-width: 400px; text-align: left;">
     <p>💻 I'm deeply passionate about <strong>low-level programming</strong> (C/C++) and how it intersects with <strong>machine learning</strong>.</p>
     <p>🔍 I love exploring how things work under the hood — from memory to optimization.</p>
