@@ -4,6 +4,11 @@
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/developer.gif" width="800"/>
 </p>
 
+<p align="center">
+  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" width="100"/>
+</p>
+
+
 <h3 align="center">🚀 Passionate C/C++ and Machine Learning Student | Focused on Low-Level Systems & Algorithms</h3>
 
 ---
@@ -41,10 +46,7 @@
 
 <!-- Optional: GitHub Stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaasinslami&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+</p> -->
 
-<p align="center">
-  <img src="https://tenor.com/fr/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811vv.gif" width="800"/>
-</p>
