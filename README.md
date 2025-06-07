@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Slami Yassine</h1>
-<p>Passionate about low-level C/C++ and Machine Learning | Bridging hardware with intelligence</p>
+<p>🚀 Passionate C/C++ and Machine Learning Student | Low-level Systems & Smart Algorithms</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
