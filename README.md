@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="cat typing"/>
+  <img src="https://tenor.com/fr/view/cpp-cplusplus-programming-gif-17877270825028232400/giphy.gif" width="300"/>
 </p>
