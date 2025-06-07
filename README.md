@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Slami Yassine</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/developer.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/developer.gif" width="800"/>
 </p>
 
 <h3 align="center">🚀 Passionate C/C++ and Machine Learning Student | Focused on Low-Level Systems & Algorithms</h3>
@@ -18,11 +18,11 @@
 
 ### 🛠️ Languages and Tools I Use
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/>
 </p>
 
 ---
@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/fr/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811vv.gif" width="500"/>
+  <img src="https://tenor.com/fr/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811vv.gif" width="800"/>
 </p>
