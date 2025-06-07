@@ -24,13 +24,13 @@
 <h3>🧠 About Me</h3>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" alt="Coding GIF" width="600" height="400"/>
   <div style="max-width: 400px; text-align: left;">
     <p>💻 I'm deeply passionate about <strong>low-level programming</strong> (C/C++) and how it intersects with <strong>machine learning</strong>.</p>
     <p>🔍 I love exploring how things work under the hood — from memory to optimization.</p>
     <p>🚀 Currently sharpening my skills through open-source, system programming, and algorithm challenges.</p>
     <p>🌱 Constantly learning, breaking things, and rebuilding better.</p>
   </div>
-  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" alt="Coding GIF" width="800" />
 </div>
 
 ### 🛠️ Languages and Tools I Use
