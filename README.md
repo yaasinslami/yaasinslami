@@ -57,16 +57,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yassine-slami-5511a2279" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" />
-  </a>
-</p>
-
-<!-- Optional: GitHub Stats -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaasinslami&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p> -->
-
