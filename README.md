@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/fr/view/cpp-cplusplus-programming-gif-17877270825028232400/giphy.gif" width="300"/>
+  <img src="https://tenor.com/fr/view/cpp-cplusplus-programming-gif-17877270825028232400" width="300"/>
 </p>
