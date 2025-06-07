@@ -13,13 +13,31 @@
 
 ---
 
-### 🧠 About Me
+<!-- ### 🧠 About Me
 - 💻 I'm deeply passionate about **low-level programming** (C/C++) and how it intersects with **machine learning**.
 - 🔍 I love exploring how things work under the hood — from memory to optimization.
 - 🚀 Currently sharpening my skills through open-source, system programming, and algorithm challenges.
 - 🌱 Constantly learning, breaking things, and rebuilding better.
 
----
+--- -->
+
+<h3>🧠 About Me</h3>
+
+<table>
+  <tr>
+    <td width="55%">
+      <ul>
+        <li>💻 I'm deeply passionate about <strong>low-level programming</strong> (C/C++) and how it intersects with <strong>machine learning</strong>.</li>
+        <li>🔍 I love exploring how things work under the hood — from memory to optimization.</li>
+        <li>🚀 Currently sharpening my skills through open-source, system programming, and algorithm challenges.</li>
+        <li>🌱 Constantly learning, breaking things, and rebuilding better.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/VfRjMfwFDDgAAAAC/mr-robot.gif" width="300" alt="Mr Robot Coding GIF">
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Languages and Tools I Use
 <p align="left">
