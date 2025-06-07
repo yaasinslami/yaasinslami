@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" width="100"/>
+  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" width="800"/>
 </p>
 
 
