@@ -30,7 +30,7 @@
     <p>🚀 Currently sharpening my skills through open-source, system programming, and algorithm challenges.</p>
     <p>🌱 Constantly learning, breaking things, and rebuilding better.</p>
   </div>
-  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" alt="Coding GIF" width="300" />
+  <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" alt="Coding GIF" width="800" />
 </div>
 
 ### 🛠️ Languages and Tools I Use
