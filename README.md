@@ -34,7 +34,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media.tenor.com/VfRjMfwFDDgAAAAC/mr-robot.gif" width="300" alt="Mr Robot Coding GIF">
+      <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" width="50" alt="Mr Robot Coding GIF">
     </td>
   </tr>
 </table>
