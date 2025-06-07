@@ -4,9 +4,9 @@
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/developer.gif" width="800"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" width="800"/>
-</p>
+</p> -->
 
 
 <h3 align="center">🚀 Passionate C/C++ and Machine Learning Student | Focused on Low-Level Systems & Algorithms</h3>
