@@ -45,6 +45,7 @@
 </p>
 
 ---
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yassine-slami-5511a2279" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/yassine-slami-5511a2279?trk=profile-badge">Yassine Slami</a></div>
 
 ### ⚡️ Where to Find Me
 <p align="left">
@@ -58,7 +59,6 @@
 
 ---
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yassine-slami-5511a2279" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/yassine-slami-5511a2279?trk=profile-badge">Yassine Slami</a></div>
 
 
 <!-- Optional: GitHub Stats -->
