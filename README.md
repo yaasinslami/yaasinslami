@@ -1,13 +1,14 @@
-
-<h1 align="center">Hey there! 👋 I'm Yassine, a 20-year-old Computer Science student with a passion for both systems programming and artificial intelligence.
-</h1>
-
----
+<h1 align="center">Hi 👋, I'm Slami Yassine</h1>
 
 <p align="center">
   <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" width="300"/>
 </p>
 
+
+<h3 align="center">Hey there! 👋 I'm Yassine, a 20-year-old Computer Science student with a passion for both systems programming and artificial intelligence.
+</h3>
+
+---
 
 <!-- ### 🧠 About Me
 - 💻 I'm deeply passionate about **low-level programming** (C/C++) and how it intersects with **machine learning**.
@@ -29,8 +30,7 @@
 - **The Intersection**: Efficient ML implementations, CUDA programming, hardware-accelerated AI
 
 
-### My Approach
-I believe the future of AI engineering lies in understanding both the mathematical foundations and the underlying hardware. My background in systems programming gives me a unique perspective on building performant, production-ready AI solutions.
+
 
 ### 🛠️ Languages and Tools I Use
 <p align="left">
