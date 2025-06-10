@@ -5,8 +5,7 @@
 </p>
 
 
-<h3 align="center">Yassine Slami | 20 | CS Student & Aspiring AI Engineer
-Currently studying Computer Science while specializing in machine learning. Passionate about C/C++ systems programming and exploring the intersection of low-level optimization and AI applications.
+<h3 align="center">Hey there! 👋 I'm Yassine, a 20-year-old Computer Science student with a passion for both systems programming and artificial intelligence.
 </h3>
 
 ---
@@ -19,16 +18,17 @@ Currently studying Computer Science while specializing in machine learning. Pass
 
 --- -->
 
-<h3>🧠 About Me</h3>
+### What I'm Currently Up To
+- 🎓 Studying Computer Science with a focus on algorithms and system design
+- 🤖 Learning machine learning fundamentals and working toward becoming an AI Engineer
+- ⚡ Building projects that combine my love for C/C++ systems programming with ML applications
+- 📚 Exploring how low-level optimizations can make AI models more efficient
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <div style="max-width: 500px; text-align: left;">
-    <p>💻 I'm deeply passionate about <strong>low-level programming</strong> (C/C++) and how it intersects with <strong>machine learning</strong>.</p>
-    <p>🔍 I love exploring how things work under the hood — from memory to optimization.</p>
-    <p>🚀 Currently sharpening my skills through open-source, system programming, and algorithm challenges.</p>
-    <p>🌱 Constantly learning, breaking things, and rebuilding better.</p>
-  </div>
-</div>
+### My Technical Interests
+- **Systems Programming**: C/C++ development, memory management, performance optimization
+- **Machine Learning**: Neural networks, computer vision, model optimization
+- **The Intersection**: Efficient ML implementations, CUDA programming, hardware-accelerated AI
+
 
 ### 🛠️ Languages and Tools I Use
 <p align="left">
