@@ -5,7 +5,9 @@
 </p>
 
 
-<h3 align="center">🚀 Passionate C/C++ and Machine Learning Student | Focused on Low-Level Systems & Algorithms</h3>
+<h3 align="center">Yassine Slami | 20 | CS Student & Aspiring AI Engineer
+Currently studying Computer Science while specializing in machine learning. Passionate about C/C++ systems programming and exploring the intersection of low-level optimization and AI applications.
+</h3>
 
 ---
 
