@@ -30,6 +30,9 @@
 - **The Intersection**: Efficient ML implementations, CUDA programming, hardware-accelerated AI
 
 
+### My Approach
+I believe the future of AI engineering lies in understanding both the mathematical foundations and the underlying hardware. My background in systems programming gives me a unique perspective on building performant, production-ready AI solutions.
+
 ### 🛠️ Languages and Tools I Use
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
