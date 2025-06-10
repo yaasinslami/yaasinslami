@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yassine </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://tenor.com/fr/view/mr-robot-gif-5733980v.gif" width="300"/>
-</p>
+</p> -->
 
 
 <h3 align="center">Hey there! 👋 I'm Yassine, a 20-year-old Computer Science student with a passion for both systems programming and artificial intelligence.
